@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+}
+.ahmed {
+    width: 455px;
+    height: 100px;
+    position: relative;
+    top: -75px;
+    left: 409px;
+    border: 2px solid black;
+
+}
+h1 {
+    position: relative;
+    top: 15px;
+    left: 8px;
+    color: black;
+}
+#abc{
+    width: 100000000px;
+    height: 100px;
+    background-color: black;
+     min-width: 200px ;
+     max-width: 400px;
+     position: relative;
+     top: -75px;
+     left: 409px;
+}
